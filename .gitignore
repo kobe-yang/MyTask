@@ -14,3 +14,7 @@ nftAuction/nft/cache/
 
 # Logs
 *.log
+
+# local test contracts (do not commit)
+nftAuction/nft/src/Test.sol
+nftAuction/nft/src/TestMock.sol
