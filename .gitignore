@@ -1,0 +1,16 @@
+# IDE
+.idea/
+.vscode/
+
+# macOS
+.DS_Store
+
+# Node / JS (if any)
+node_modules/
+
+# Foundry / Solidity build artifacts
+nftAuction/nft/out/
+nftAuction/nft/cache/
+
+# Logs
+*.log
