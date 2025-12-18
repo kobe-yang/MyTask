@@ -1,0 +1,8 @@
+{
+  "name": "My First NFT",
+  "description": "This is my first ERC721 NFT on Sepolia.",
+  "image": "ipfs://bafybeigne3wjzxtkwbkcmpaq4gieffw7c4bulfn3opwpktemti4v5q4454",
+  "attributes": [
+    { "trait_type": "Level", "value": 1 }
+  ]
+}
